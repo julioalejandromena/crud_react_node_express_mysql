@@ -121,7 +121,6 @@ export const MostarDatos = ({contar, setContar, datos, setDatos}) => {
                   >
                     <i class="fa fa-paper-plane"></i>
                   </button>
-                  <hr />
               </form>
             </div>
           </div>
