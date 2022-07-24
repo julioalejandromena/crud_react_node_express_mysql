@@ -13,7 +13,7 @@ const App = () => {
 
     <div className="container">
       <div className="row">
-        <h3>Lista de productos en linea KLK</h3>
+        <h3>Lista de productos en linea</h3>
         <div className="col-md-4">
           <GuardarProducto contar={contar} setContar={setContar} datos={datos} setDatos={setDatos}/>
         </div>
