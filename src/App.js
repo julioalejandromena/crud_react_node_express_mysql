@@ -12,8 +12,8 @@ const App = () => {
   return (
 
     <div className="container">
+      <h3>Lista de productos en linea</h3>
       <div className="row">
-        <h3>Lista de productos en linea</h3>
         <div className="col-md-4">
           <GuardarProducto contar={contar} setContar={setContar} datos={datos} setDatos={setDatos}/>
         </div>
